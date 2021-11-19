@@ -11,7 +11,7 @@ public class TenisApplication {
 		int pointsPlayerOne = 0;
 		int pointsPlayerTwo = 0;
 	}
-	//Sumar puntos
+	//Sumar puntos sebas
 	private int addPoints(int pointsPlayerOne) {
 		return pointsPlayerOne + 1;
 	}
